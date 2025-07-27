@@ -10,7 +10,7 @@ Weights: Pre-trained ImageNet
 
 Trainable Parameters: All original ResNet50 convolutional layers are frozen (not trainable during your training phase).
 
-Custom Top Layers (added for classification on your brain tumor dataset):
+Custom Top Layers (added for classification on brain tumor dataset):
 
 GlobalAveragePooling2D
 
